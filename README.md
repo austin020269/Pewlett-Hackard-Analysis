@@ -58,4 +58,4 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 - Only 2 managers eligible for retirement
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-- 
+- Approx. 8,550 employees are eligible to be mentors with only about 10% of those quakified to retire, therefore there is no need to panic about your educated staff leaving prior to mentoring newer employees.  
