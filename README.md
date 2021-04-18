@@ -33,17 +33,21 @@ One of the initial spreadsheets created during this code was a query that:
 
 ![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/retirement_titles.PNG)
 
-The mullti-line chart showing total fares for each city type was created by:
-- creating a new dataframe showing the sum of the fares for each date.
-- resetting the index on the dataframe.
-- creating a pivot table with the date as the index, the columns ='type', and values='fare' to get total fares for each city.
-- creating dataframe from the pivot table. 
-- setting the "date" index to datetime datatype.
-- creating a new dataFrame by week 'W' and get the sum of the fares for each week.
-- plot the new dataframe using the df.plot() function. 
+Similar flows were utilized to produce the unique_titles.csv and retiring_titles.csv.
 
-![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig8.png)
+Our final code was used to produce the mentorship_eligibility.csv as per this flow:
+1. retrieve the emp_no, first_name, last_name, and birth_date columns from the Employees table.
+2. retrieve the from_date and to_date columns from the Department Employee table.
+3. retrieve the title column from the Titles table.
+4. retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause.
+5. create a new table using the INTO clause (this was the mentoer_eligibility.csv).
+6. join the Employees and the Department Employee tables on the primary key.
+7. join the Employees and the Titles tables on the primary key.
+8. filter the data on the to_date column to get current employees whose birth dates are between January 1, 1965 and December 31, 1965.
+9. order the table by the employee number.
+10.export the Mentorship Eligibility table as mentorship_eligibilty.csv (seen below)
 
+![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.csv)
 
 ## Summary
 
