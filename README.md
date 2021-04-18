@@ -3,7 +3,7 @@
 Module 7 - University of Texas Data Analytics Bootcamp - Spring 2021
 
 ## Project Overview
-Pewlett-Hackard provided asked us to generate a database based on company information to analyze retirement status of their employees.  This was done by generating a database of company information that showed the entity-relationships between the various data sources as follows.
+Pewlett-Hackard asked us to analyze their current employees for retirmenet eligibility.  This was done by generating a database of company information that showed the entity-relationships between the various data sources as follows.
 
 ![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
