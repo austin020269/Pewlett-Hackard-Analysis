@@ -17,9 +17,8 @@ Pewlett - Hackard provided us with six data spreadsheets summarizing personnel e
 - dept_emp.csv - identifying the employee number, the department code they work in, and their start and end dates.
 
 Software utilized for this study included: 
-- Python 3.7.6 
-- Conda 4.9.2 
-- Jupyter Notebook 6.1.4
+- pgAdmin 4 (Version 4.30)
+- Visual Studio (Version 1.54.3)
 - GitHub account
 
 ## Analysis and Workflow
