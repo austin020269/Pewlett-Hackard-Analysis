@@ -51,14 +51,11 @@ Our final code was used to produce the mentorship_eligibility.csv as per this fl
 
 ## Summary
 
-Some observations we can make about the pyber_summary_df dataframe include:
-- there are more rides in urban cities than suburban or rural cities
-- there are more drivers in urban cities
-- fares and fares per ride are more expensive in rural cities, probably due to the length of the ride
-- fares per ride are cheaper in urban cities
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+- Over 90,000 (90,396) employees are eligible to retire soon.
+- Non - engineering titles eligible include technique leader, staff, and senior staff
+- Engineers that are eligible range from assistent to senior level employees (43,656 total)
+- Only 2 managers eligible for retirement
 
-Some observations we can make from the Total Fare by City Type chart include: 
-- the overall trends for each city type are relatively similar.
-- their data never interesect each other
-- an overall upward jump in fares in each city type in mid-February
-- an overall upward trend in each city type in January
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- 
