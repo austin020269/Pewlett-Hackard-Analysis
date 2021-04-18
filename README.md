@@ -29,7 +29,7 @@ One of the initial spreadsheets created during this code was a query that:
 2. create a new table using the INTO clause.
 3. joined both tables on the primary key
 4. filtered the data on the birth_date column then ordered by the employee number
-5. filannly exported the file naming it retirement_titles.csv (seen below)
+5. finally exported the file naming it retirement_titles.csv (seen below)
 
 ![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/retirement_titles.PNG)
 
