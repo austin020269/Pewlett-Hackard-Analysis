@@ -10,11 +10,11 @@ Pewlett-Hackard asked us to analyze their current employees for retirmenet eligi
 ## Resources
 Pewlett - Hackard provided us with six data spreadsheets summarizing personnel employment and department information according to the  following:
 - departments.csv - identifying the department code for each department
-- dept_manager.csv - identifying the depertment code for each employee and their start and end dates in that department.
+- dept_manager.csv - identifying the depertment code for each employee and their start and end dates.
 - employees.csv - identifying the employee number, first and last names, birth date, gender and hire date.
 - salaries.csv - identifying the employee number and his/her salary and their start and end dates.
-- titles.csv - identifying the employee number, their title and their start and end date.
-- dept_emp.csv - identifying the employee number, the department code they work in, and their start and ending dates in that department.
+- titles.csv - identifying the employee number, their title and their start and end dates.
+- dept_emp.csv - identifying the employee number, the department code they work in, and their start and end dates.
 
 Software utilized for this study included: 
 - Python 3.7.6 
