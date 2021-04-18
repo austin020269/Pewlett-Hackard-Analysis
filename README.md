@@ -47,7 +47,7 @@ Our final code was used to produce the mentorship_eligibility.csv as per this fl
 9. order the table by the employee number.
 10.export the Mentorship Eligibility table as mentorship_eligibilty.csv (seen below)
 
-![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.csv)
+![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.PNG)
 
 ## Summary
 
