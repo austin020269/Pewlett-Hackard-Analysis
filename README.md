@@ -21,7 +21,7 @@ Software utilized for this study included:
 - Visual Studio (Version 1.54.3)
 - GitHub account
 
-## Analysis and Workflow
+## Analysis/Workflow/Results
 The final sql code was generated in our Employee_Database_challenge.sql file (https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/Employee_Database_Challenge.sql) generated in pgAdmin and later saved in Visual Studio.
 
 One of the initial spreadsheets created during this code was a query that: 
