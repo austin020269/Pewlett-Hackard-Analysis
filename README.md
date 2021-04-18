@@ -22,11 +22,16 @@ Software utilized for this study included:
 - GitHub account
 
 ## Analysis and Workflow
-The following flow was generated in our PyBer_Challenge_starter_code_final.ipynb (https://github.com/austin020269/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code_final.ipynb) Jupyter Notebook file.
+The final sql code was generated in our Employee_Database_challenge.sql file (https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/Employee_Database_Challenge.sql) generated in pgAdmin and later saved in Visual Studio.
 
-The ride share data frame was created by:
-- retrieving the total number of rides, the total number of drivers and the sum of the fares for each city type.
-- calculating the average fare per ride and average fare per driver for each city type.
+One of the initial spreadsheets created during this code was a query that: 
+1. retrieved the emp_no, first_name, and last_name columns from the Employees table.
+2. create a new table using the INTO clause.
+3. joined both tables on the primary key
+4. filtered the data on the birth_date column then ordered by the employee number
+5. filannly exported the file naming it retirement_titles.csv (seen below)
+
+
 
 ![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/dataframe.PNG)
 
