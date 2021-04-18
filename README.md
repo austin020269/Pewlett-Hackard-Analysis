@@ -52,7 +52,7 @@ Our final code was used to produce the mentorship_eligibility.csv as per this fl
 ## Summary
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-- Over 90,000 (90,396) employees are eligible to retire soon.
+- Over 90,000 (90,396) employees are eligible to retire soon
 - Non - engineering titles eligible include technique leader, staff, and senior staff
 - Engineers that are eligible range from assistent to senior level employees (43,656 total)
 - Only 2 managers eligible for retirement
