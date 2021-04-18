@@ -45,7 +45,7 @@ Our final code was used to produce the mentorship_eligibility.csv as per this fl
 7. join the Employees and the Titles tables on the primary key.
 8. filter the data on the to_date column to get current employees whose birth dates are between January 1, 1965 and December 31, 1965.
 9. order the table by the employee number.
-10.export the Mentorship Eligibility table as mentorship_eligibilty.csv (seen below)
+10. export the Mentorship Eligibility table as mentorship_eligibilty.csv (seen below)
 
 ![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.PNG)
 
