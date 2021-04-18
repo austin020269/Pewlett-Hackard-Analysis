@@ -1,20 +1,21 @@
 # Pewlett-Hackard-Analysis
 
-Module 7 UT Data Analytics Bootcamp - Spring 2021
+Module 7 - University of Texas Data Analytics Bootcamp - Spring 2021
 
 ## Project Overview
-We were provided ride and city data by PyBer, a ride sharing app company.  The ride-share data spanned a timeframe from January to early May 2019.  Our final projaect was to provide a ride sharing summary dataFrame by city type, a multiple-line chart of total fares for each city type and a final report documenting the work done.  During this study we also created various bubble charts and pie charts to gain familiarity with the data as shown below in our PyBer.ipnyb code (https://github.com/austin020269/PyBer_Analysis/blob/main/PyBer.ipynb) in Jupyter Notebook.
+Pewlett-Hackard provided asked us to generate a database based on company information to analyze retirement status of their employees.  This was done by generating a database of company information that showed the entity-relationships between the various data sources as follows.
 
-![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/code.PNG)
-![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Bubble.PNG)
-
-![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Pie.PNG)
+![alt text](https://github.com/austin020269/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
 ## Resources
-Data Sources provided to analyze and minipulate included:
-- ride_data.csv - showing city, date, fare amount and the ride_id
-- city_data.csv - showing city, driver_count and city type (urban, suburban or rural)
-
+Pewlett - Hackard provided us with six data spreadsheets summarizing personnel employment and department information from the following:
+- departments.csv
+- dept_manager.csv
+- employees.csv
+- salaries.csv
+- titles.csv
+- dept_emp.csv
+- 
 Software utilized for this study included: 
 - Python 3.7.6 
 - Conda 4.9.2 
